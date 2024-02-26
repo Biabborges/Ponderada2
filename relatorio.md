@@ -27,4 +27,12 @@ O objetivo deste experimento é demonstrar como criar uma instância EC2 na AWS 
 4. Navegue até a seção "Private key file for authentication" e selecione o arquivo.ppk da chave privada correspondente ao par de chaves utilizado na criação da instância EC2.
 5. Volte à sessão "Session" no menu à esquerda e clique em "Open" para iniciar a conexão SSH.
 
+## 5. Resultados
+- [Captura de tela da instância criada](images/instanciacriada.jpg)
+- [Captura de tela da instância criada - 2](images/instanciasendoexecutada.jpg)
+- [Captura de tela incluindo detalhes da instância: IP da máquina EC2](images/detalhesdainstancia.jpg)
+- [Captura de tela do acesso SSH bem-sucedido usando o PuTTY](images/instanciaconectada.jpg)
+- IP da máquina EC2: `xx.xx.xx.xx`
 
+## 6. Conclusão
+Nesta ponderada, coloquei em prática os meus conhecimentos sobre como criar uma instância EC2 na AWS e acessá-la remotamente via SSH utilizando o PuTTY. Agora pude ter uma visão mais clara sobre a conexão destas ferramentas!
